@@ -1,6 +1,6 @@
 ## Sentiment analysis ULMFiT model for Twitter US Airlines
 
-*The ULMFiT model using Twitter US Airlines users reviews.*
+*The ULMFiT model using Twitter US Airlines user's reviews.*
 
 **Dependencies:**
 - [NumPy](https://www.numpy.org/) - For faster manipualtion of array operations (used here only permutation of indices in DataFrame).
