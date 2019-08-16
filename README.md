@@ -1,4 +1,4 @@
-## ULMFiT model for Twitter US Airlines Sentiment
+## Sentiment analysis ULMFiT model for Twitter US Airlines
 
 *The ULMFiT model using Twitter US Airlines users reviews.*
 
