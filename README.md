@@ -8,4 +8,4 @@
 - [TensorFlow](https://www.tensorflow.org/) - To create model by processing data from DataFrame using Keras in TensorFlow.
 - [Scikit-learn](https://scikit-learn.org/stable) - For label encoding (using LabelEncoder()) the target variables in data.
 
-Note: This model is completely developed in Jupyter Notebook but also a Python (.py) file is provided along if required.
+Note: This model is completely developed in Jupyter Notebook and executed on [Google Colab](https://colab.research.google.com/) but also a Python (.py) file is provided if required.
